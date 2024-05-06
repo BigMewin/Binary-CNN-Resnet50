@@ -1,8 +1,8 @@
-#Automated Brain Tumor Detection Using Deep Learning
-##1. Background
+# Automated Brain Tumor Detection Using Deep Learning
+## 1. Background
 Brain tumors represent abnormal masses or growths of cells within the brain's confined cranial space and pose significant medical challenges. These tumors can be either benign (noncancerous) or malignant (cancerous), each with unique complexities in treatment and prognosis. Early and accurate detection is essential due to the potential severity of brain tumors and the precision required for effective treatment.
 
-##2. Overview of Previous Research
+## 2. Overview of Previous Research
 Recent studies in the domain of medical imaging and AI have focused on enhancing the precision of brain tumor diagnosis. Notably:
 
 Ying, Z., Holly N., et al. (2020) explored automated glioma grading using Mask R-CNN with 2D data augmentation on conventional MRI images.
@@ -14,10 +14,10 @@ Convolutional Neural Networks (CNNs): Particularly suited for analyzing image da
 Artificial Neural Networks (ANNs): Capable of modeling complex data relationships, ANNs are widely used across various healthcare applications.
 Data Augmentation: Enhances the size and quality of training datasets to improve model robustness and generalizability.
 Transfer Learning (TL) with ResNet: Utilizes pre-trained models to achieve high performance, even on smaller, specialized datasets like those in medical imaging.
-##4. Purpose
+## 4. Purpose
 The integration of these deep learning technologies aims to automate the detection and classification of brain tumors, enhancing diagnostic processes and enabling faster, more accurate tumor identification. This could significantly improve treatment strategies and patient survival rates.
 
-##5 Dataset
+## 5 Dataset
 Two brain MRI datasets are utilized in this project:
 
 Brain Tumor MRI Dataset from Kaggle: Contains 7,023 images divided into glioma, meningioma, no tumor, and pituitary categories. The dataset is balanced with approximately 1,500 training images and 300 testing images per category.
