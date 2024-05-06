@@ -7,7 +7,7 @@ Recent studies in the domain of medical imaging and AI have focused on enhancing
 
 Ying, Z., Holly N., et al. (2020) explored automated glioma grading using Mask R-CNN with 2D data augmentation on conventional MRI images.
 Rajat M. et al. (2020) utilized Transfer Learning with five pre-trained deep learning models for AI-based brain tumor classification.
-##3. Project Overview
+## 3. Project Overview
 This project aims to leverage cutting-edge artificial intelligence models to classify and detect brain tumors effectively. The key technologies employed are:
 
 Convolutional Neural Networks (CNNs): Particularly suited for analyzing image data, CNNs have demonstrated effectiveness in identifying patterns and features indicative of tumors.
